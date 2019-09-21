@@ -1,2 +1,2 @@
 
-print('Bonjour')
+print('Bonjour LOL')
